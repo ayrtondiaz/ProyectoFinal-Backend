@@ -76,4 +76,4 @@ para poder testear los emails
     ```
 
 ## Proyecto Online
-- El proyecto se encuntra funcionando en la siguiente [URL]([www.proyecto.com](https://proyectofinal-backend-production-9970.up.railway.app/login))
+- El proyecto se encuntra funcionando en la siguiente [URL](https://proyectofinal-backend-production-9970.up.railway.app/login)
