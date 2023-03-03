@@ -12,6 +12,10 @@
 - Las funciones o clases que se por sí solas expliquen su misión, no necesitan ser explicadas (salvo que amerite por complejidad).
 - Para concluir, subir el desarrollo completo a Heroku o algún PASS de preferencia, seleccionando la configuración a producción de modo de utilizar los parámetros adecuados de funcionamiento y la persistencia en la nube a través de bases de datos como servicio (DBaaS).
 
+### Capturas:
+![Captura de pantalla (598)](https://user-images.githubusercontent.com/89177834/222597529-3910afad-9ab3-4b4a-91ba-0d8c53d2bb19.png)
+![Captura de pantalla (599)](https://user-images.githubusercontent.com/89177834/222597985-baa6d1a4-59c7-4610-962e-928d941f0ef5.png)
+![Captura de pantalla (600)](https://user-images.githubusercontent.com/89177834/222598070-c531b9dc-9ed3-49d8-ae86-2131bf5c496f.png)
 
 **Piezas sugeridas**<br>
 _Te recomendamos incluir:_
